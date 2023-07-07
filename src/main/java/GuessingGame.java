@@ -4,7 +4,7 @@ public class GuessingGame {
         int guess = 10;
         int secretNumber = 10;
         String result; // null
-//some comments here
+
         if(guess == secretNumber){
             result = "Yayy, that's correct";
         } else {
